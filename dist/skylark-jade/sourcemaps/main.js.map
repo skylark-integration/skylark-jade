@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","jade"],"mappings":";;;;;;;AAAAA,QACC,UACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./jade\"\r\n],function(jade){\r\n\treturn jade;\r\n});"]}
